@@ -1,0 +1,31 @@
+/* Specifik stil för Om Oss-sida */
+section {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    color: #555;
+  }
+  
+
+  /* Style for the button */
+button {
+  padding: 10px 20px;
+  background-color: #343a40;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* Hover effect for the button */
+button:hover {
+  background-color: #343a40;
+}
