@@ -1,4 +1,4 @@
-// Laddar in headern och navigationsmenyn från header.html på varje sida
+
 
 // Skapar en ny XMLHttpRequest
 var xhr = new XMLHttpRequest();
